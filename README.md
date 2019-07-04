@@ -2,9 +2,8 @@
   - [ ] [생활코딩 - GIT](https://opentutorials.org/course/3837)
   - [ ] [생활코딩 - github](https://opentutorials.org/course/307/2475)
 
-2. github에 계정 만들기 - 계정 알려주세요.
-  - [x] jihyeryu97
-  - [x] ym8585
+2. github에 계정 만들기
+  - [ ] shyang-git
 
 3. git 설치하기
   - [x] git-scm - https://git-scm.com/  
